@@ -1,6 +1,6 @@
 p {
 	color: Ivory;
-background-color: FireBrick;
+background-color: Plum;
 }
 
 h1 {
@@ -9,4 +9,7 @@ h1 {
 
 p {
     font-size: 29px;
+}
+body {
+    background-color: RosyBrown;
 }
