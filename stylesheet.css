@@ -23,5 +23,6 @@ h1 {
 
 ul {
    list-style-type: none;
-   background: Lavender;	
+   background: Lavender;
+   width: 100px;	
 }	
