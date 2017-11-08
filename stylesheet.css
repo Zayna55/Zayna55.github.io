@@ -31,8 +31,11 @@ ul {
 li a {
     display: block;
     text-align: center;
+    text-decoration: none; 
+    color: seagreen;
+    font-family: Arial;	
 }
 
 li a:hover {
-    background: Orchid; 	
+    background: Gray; 	
 }	
