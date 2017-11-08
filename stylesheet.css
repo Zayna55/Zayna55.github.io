@@ -11,7 +11,7 @@ p {
     font-size: 22px;
 }
 body {
-    background-color: RosyBrown;
+    background-color: White;
 }
 h1 {
     font-size: 2.5em;
@@ -26,6 +26,7 @@ ul {
    background: Lavender;
    width: 100px;
    padding: 0;
+   margin: 0;	
 }	
 
 li a {
@@ -34,6 +35,7 @@ li a {
     text-decoration: none; 
     color: seagreen;
     font-family: Arial;	
+    padding: 10px;	
 }
 
 li a:hover {
