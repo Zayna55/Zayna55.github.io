@@ -1,6 +1,5 @@
 p {
-	color: Ivory;
-background-color: Plum;
+	color: Green;
 }
 
 h1 {
@@ -22,23 +21,3 @@ h1 {
 }
 
 
-ul {
-   list-style-type: none;
-   background: Lavender;
-   width: 100px;
-   padding: 0;
-   margin: 0;	
-}	
-
-li a {
-    display: block;
-    text-align: center;
-    text-decoration: none; 
-    color: DarkGreen;
-    font-family: Verdana;	
-    padding: 10px;	
-}
-
-li a:hover {
-    background: MediumSeaGreen; 	
-}	
