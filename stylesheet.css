@@ -19,5 +19,9 @@ h1 {
 h1 {
     text-align: center;
 }
-
-
+body{
+  background-image: url(http://www.mapsland.com/maps/south-america/guyana/large-relief-map-of-guyana-small.jpg); 	
+  background-position: center center;
+  background-size: cover;
+  background attachment: fixed;
+}	
